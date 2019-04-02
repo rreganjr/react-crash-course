@@ -1,3 +1,5 @@
+I made this following along the crash course https://www.youtube.com/watch?v=Ke90Tje7VS0
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
